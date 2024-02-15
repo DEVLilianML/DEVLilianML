@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Obianuju Lilian Onuoha.
-- 🌱 I’m currently learning Front End Development / Data Science.
+- 🌱 I’m currently learning Front-End Development.
 - 💞️ I’m looking to collaborate on exploring new front-end frameworks and DS projects.
 - 📫 you can reach me on ujunwalilianz@yahoo.com
 
