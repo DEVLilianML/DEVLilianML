@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obianuju Lilian Onuoha.
 - 🌱 I’m currently learning Back-End Development and aspiring Full-stack Developer.
-- 💞️ I’m looking to collaborate on exploring new front-end frameworks and DS projects.
+- 💞️ I’m looking to collaborate on exploring new projects.
 - 📫 you can reach me on ujunwalilianz@yahoo.com
 
 <!---
